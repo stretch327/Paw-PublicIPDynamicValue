@@ -1,6 +1,6 @@
 # Public IP Dynamic Value (Paw Extension)
 
-A [Paw Extension](http://luckymarmot.com/paw/extensions/) to load the user's public IP address.
+A [Paw Extension](http://luckymarmot.com/paw/extensions/) to load the user's public IP address using [ipify](https://www.ipify.org).
 
 ## Installation
 
