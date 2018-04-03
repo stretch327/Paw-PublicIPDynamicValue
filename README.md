@@ -1,17 +1,17 @@
-#Public IP Dynamic Value (Paw Extension)
+# Public IP Dynamic Value (Paw Extension)
 
 A [Paw Extension](http://luckymarmot.com/paw/extensions/) to load the user's public IP address.
 
 ## Installation
 
-Easily install this Paw Extension: [Install Public IP Dynamic Value](http://luckymarmot.com/paw/extensions/RegexDynamicValue)
+Place [com.stretchedout.publicip](https://github.com/stretch327/Paw-PublicIPDynamicValue) folder in your Paw extensions folder.
 
-##License
+## License
 
 This Paw Extension is released under the [MIT License](LICENSE). Feel free to fork, and modify!
 
 Copyright © 2018 Greg O'Lone.
 
-##Contributors
+## Contributors
 
 See [Contributors](https://github.com/stretch327/Paw-PublicIPDynamicValue/graphs/contributors).
